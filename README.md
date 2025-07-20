@@ -3,6 +3,11 @@
 ![Alt text](HomePage.png?raw=true "Title")
 
 A comprehensive and modern e-commerce platform built with React, Tailwind CSS, and Node.js, designed to provide a seamless and intuitive shopping experience. This project features user authentication, product browsing, cart management, and secure payment processing using Stripe.
+
+## Hoisted On:
+-Backend:Render
+-Frontend:Vercel
+Live AT: https://mega-mart-x-ten.vercel.app
 ## Features
 
 - User Authentication (Login, Registration, Password Reset)
