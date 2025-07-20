@@ -1,4 +1,4 @@
-# E-Store
+# MegaMartX
 
 ![Alt text](HomePage.png?raw=true "Title")
 
