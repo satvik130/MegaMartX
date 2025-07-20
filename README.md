@@ -6,8 +6,12 @@ A comprehensive and modern e-commerce platform built with React, Tailwind CSS, a
 
 ## Hoisted On:
 -Backend:Render
+
 -Frontend:Vercel
+
 Live AT: https://mega-mart-x-ten.vercel.app
+
+
 ## Features
 
 - User Authentication (Login, Registration, Password Reset)
