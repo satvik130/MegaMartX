@@ -33,9 +33,7 @@ Make sure you have the following installed on your local machine:
 ### Installation
 
 1. Clone the repository:
-    ```bash
-    https://github.com/kumarprince06/Full-Stack-MERN-E-Commerce.git
-    ```
+   
 
 2. Navigate to the project directory:
     ```bash
@@ -136,9 +134,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
